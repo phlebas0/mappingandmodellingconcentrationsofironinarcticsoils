@@ -2,7 +2,7 @@
 Spatial Random Forest modelling of total and reactive iron in glacial till across the Slave Craton, Canada.
 
 ### Overview
-The project uses Random Forest models to predict total and reactive iron concentrations in glacial till across the Slave Craton, Canada. Models combine till geochemistry with geological, geophysical, terrain, climate, permafrost and soil-moisture predictors.
+The project uses Random Forest models to predict total and reactive iron concentrations in glacial till across the Slave Craton, Canada. Models combine till geochemistry with geological, geophysical, terrain, climate, permafrost and soil moisture predictors.
 
 ### Models
 Two representations of bedrock geology are compared:
