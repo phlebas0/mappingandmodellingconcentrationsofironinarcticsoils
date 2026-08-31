@@ -6,8 +6,8 @@ The project uses Random Forest models to predict total and reactive iron concent
 
 ### Models
 Two representations of bedrock geology are compared:
-- M1 — Bedrock lithology: categorical bedrock lithology + 21 environmental and geophysical predictors, and
-- M2 — Lithology distances: 47 distance-to-lithology predictors + the same 21 additional predictors.
+- M1 - Bedrock lithology: categorical bedrock lithology + 21 environmental and geophysical predictors, and
+- M2 - Lithology distances: 47 distance-to-lithology predictors + the same 21 additional predictors.
 
 Separate models are fitted for:
 - total Fe, and
