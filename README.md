@@ -1,4 +1,4 @@
-## Mapping Total and Reactive Iron in Glacial Till across the Slave Craton
+## Mapping Total and Reactive Iron in Soil in the Slave Craton, Northwest Territories, Canada
 
 ### Overview
 
